@@ -51,7 +51,7 @@ computer code.
 
 The only branch of economics in which something similar has happened is
 representative agent macroeconomics, which (to some degree) has
-standardized on the use of the DYNARE toolkit.
+standardized on the use of the DYNARE toolkit, a toolkit that used to solve dynamic stochastic general equilibrium models.
 
 Our aim is to provide a high quality set of tools and standards whose
 existence will help bring the rest of economics out of the (comparative)
